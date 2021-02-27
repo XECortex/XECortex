@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XECortex)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XECortex&show_icons=true&count_private=true?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XECortex/XECortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
