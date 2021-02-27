@@ -1,17 +1,14 @@
-
-
-
-<p style="text-align: center">
+<p align="center">
     <img src="https://www.bookweb.org/sites/default/files/gallery/BLM.png" style="height: 8rem">
     <img src="https://www.stop-climate-change.de/typo3temp/pics/e46804fe1c.png" style="height: 8rem">
 </p>
 <hr>
 <br>
 
-<p style="text-align: center">
+<p align="center">
     <img src="https://raw.githubusercontent.com/XECortex/XECortex/main/banner_large.png" style="width: 75%">
 </p>
-<h2 style="text-align: center">Welcome at my profile!</h2>
+<h2 align="center">Welcome at my profile!</h2>
 
 ### About me
 **Hey!** Umm, well, there's not much to say about me...\
@@ -33,6 +30,5 @@ Otherwise, I work on everything I feel like doing - like doing Linux stuff, codi
 <br>
 <hr>
 <br>
-<p style="text-align: center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=XECortex&show_icons=true&count_private=true&theme=vue-dark&hide_border=true">
-</p>
