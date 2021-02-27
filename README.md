@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://www.bookweb.org/sites/default/files/gallery/BLM.png" height="8rem">
-    <img src="https://www.stop-climate-change.de/typo3temp/pics/e46804fe1c.png" height="8rem">
+    <img src="https://www.bookweb.org/sites/default/files/gallery/BLM.png" height="128px">
+    <img src="https://www.stop-climate-change.de/typo3temp/pics/e46804fe1c.png" height="128px">
 </p>
 <hr>
 <br>
