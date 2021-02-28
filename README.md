@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://www.bookweb.org/sites/default/files/gallery/BLM.png" height="128px">
-    <img src="https://www.stop-climate-change.de/typo3temp/pics/e46804fe1c.png" height="128px">
+    <img src="https://github.com/XECortex/XECortex/blob/main/blm.png?raw=true" height="128px">
+    <img src="https://github.com/XECortex/XECortex/blob/main/stop_climate_change.png?raw=true" height="128px">
 </p>
 <hr>
 <br>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/XECortex/XECortex/main/banner_large.png" width="75%">
+    <img src="https://github.com/XECortex/XECortex/blob/main/banner_large.png?raw=true" width="75%">
 </p>
 <h2 align="center">Welcome at my profile!</h2>
 
