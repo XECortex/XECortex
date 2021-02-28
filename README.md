@@ -11,7 +11,7 @@
 <h2 align="center">Welcome at my profile!</h2>
 
 ### About me
-**Hey!** Umm, well, there's not much to say about me...\
+**Hey!** Umm, well, there's not much to say about me... I think...\
 I'm a **Linux**-obsessed, **self-taught programmer** from **Germany**.\
 Programming languages I'm familiar with are **C++, JavaScript, Kotlin, Python, PHP, Scratch - and maybe even more.**\
 \
@@ -24,7 +24,9 @@ Btw I use Artix (:heart:) with i3-gaps, you can find my dots [here](https://gith
 
 ### What I do
 Currently I am working on my [Spotify AdEleminator](https://github.com/xecortex/spotify-adeleminator) written in **Python**.\
-Otherwise, I work on everything I feel like doing - like doing Linux stuff, coding games and webpages or maybe I build a House... I don't know what I do tomorrow!
+Otherwise, I work on everything I feel like doing - like doing Linux stuff, coding games and webpages or maybe I build a House... I don't know what I do tomorrow!\
+\
+Oh, right, I forgot to say, I have [this](https://xecortex.ddnss.org) website where I do stuff. Boring stuff, mostly, but sometimes I also do cewl projects there.
 <br>
 <br>
 <hr>
