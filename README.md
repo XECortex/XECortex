@@ -19,8 +19,7 @@ Btw I use Artix (:heart:) with i3-gaps, you can find my dots [here](https://gith
 
 ### What I like
 - I love **(prog) Metal/Rock** bands like **Helloween, Dreamtheater or Foo Fighters**.
-- I **travel** a lot, especially in countries with **mountains**, like **Austria**, **Swiss** and **Norway**, but also **Danmark**, the **Netherlands** and other countries\
-(sadly that was not possible during the last year because of _f\*\*\*\*\*\*_ COVID-19 **qwq**)
+- I **travel** a lot, especially in countries with **mountains**, like **Austria**, **Swiss** and **Norway**, but also **Danmark**, the **Netherlands** and other countries
 - **Gaming**. Minecraft, Apex Legends, Retro- and Indie-Games.
 
 ### What I do
