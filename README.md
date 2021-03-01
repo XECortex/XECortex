@@ -21,6 +21,7 @@ Btw I use Artix (:heart:) with i3-gaps, you can find my dots [here](https://gith
 - I love **(prog) Metal/Rock** bands like **Helloween, Dreamtheater or Foo Fighters**.
 - I **travel** a lot, especially in countries with **mountains**, like **Austria**, **Swiss** and **Norway**, but also **Danmark**, the **Netherlands** and other countries
 - **Gaming**. Minecraft, Apex Legends, Retro- and Indie-Games.
+- I'm also interested in many sciences, especially astronomy, physics, mathematics and the questions about the meaning of life (you know thats the answer is 42, don't you?)
 
 ### What I do
 Currently I am working on my [Spotify AdEleminator](https://github.com/xecortex/spotify-adeleminator) written in **Python**.\
