@@ -1,11 +1,4 @@
 <p align="center">
-    <img src="https://github.com/XECortex/XECortex/blob/main/blm.png?raw=true" height="128px">
-    <img src="https://github.com/XECortex/XECortex/blob/main/stop_climate_change.png?raw=true" height="128px">
-</p>
-<hr>
-<br>
-
-<p align="center">
     <img src="https://github.com/XECortex/XECortex/blob/main/banner_large.png?raw=true" width="75%">
 </p>
 <h2 align="center">Welcome at my profile!</h2>
